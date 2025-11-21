@@ -3,22 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Daffa Rial Portofolio</title>
 
     <!-- CSS External -->
     <link rel="stylesheet" href="css/style.css">
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
 
 <body>
 
     <!-- header content -->
-    <header></header>
+    <header class="main-header p-4">
+        <div class="logo-icon">
+
+        </div>
+
+        <!-- Navigation Bar -->
+         <nav class="flex">
+            <a class="border p-2 rounded" href="home-page">Home</a>
+            <a class="border p-2 rounded" href="profile-page">Profile</a>
+            <a class="border p-2 rounded" href="portofolio-page">Portofolio</a>
+            <a class="border p-2 rounded" href="message-page">Message</a>
+         </nav>
+    </header>
+
+    <hr>
 
     <!-- Main content -->
-    <main></main>
+    <main>
+        <!-- home-page -->
+        <section id="home-page" class="min-h-[400px] p-2">
+            <h2 class="text-xl font-bold" id="welcome-speech"></h2>
+        </section>
+
+        <hr>
+
+        <!-- profile-page -->
+        <section id="profile-page" class="min-h-[400px] p-2">
+            This is my profile page.
+        </section>
+
+        <hr>
+
+        <!-- portofolio-page -->
+        <section id="portofolio-page" class="min-h-[400px] p-2">
+            This is my porto
+        </section>
+
+        <hr>
+
+        <!-- message-page -->
+        <section id="message-page" class="min-h-[400px] p-2">
+            Messege Me!
+        </section>
+
+    </main>
     
+    <hr>
+
     <!-- Footer content -->
-    <footer></footer>
+    <footer>
+        <span>@2025 Daffa Rial</span>
+    </footer>
     
     <!-- Javascript External -->
     <script src="js/script.js"></script>
