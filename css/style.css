@@ -1,16 +1,19 @@
 .logo-icon {
-    height: 75px;
-    width: 75px;
-    background-color: seagreen;
-    border-radius: 50%;
-    background-image: url(https://picsum.photos/200);
+    height: 80px;
+    width: 65px;
+    border-radius: 0;
+    background-image: url('../img/logo_daprel_transparent.png');
     background-size: cover;
 }
 
 .main-header {
     display: flex;
-    align-items: center;
     justify-content: space-between;
+}
+
+.send-button {
+    background-color: rgb(22, 66, 41);
+    color: white;
 }
 
 html, body {
