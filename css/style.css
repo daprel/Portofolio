@@ -1,9 +1,7 @@
 .logo-icon {
     height: 80px;
-    width: 65px;
     border-radius: 0;
-    background-image: url('/img/logo_daprel_transparent.png');
-    background-size: cover;
+    overflow: hidden;
 }
 
 .main-header {
