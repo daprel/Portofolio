@@ -1,7 +1,8 @@
 welcomeMessage();
 
 function welcomeMessage() {
-    let userName = prompt("Please enter your name:");
+    //let userName = prompt("Please enter your name:");
+    let userName = "Guest";
 
     if (userName == '' || userName == null) {
         userName = "Guest";
