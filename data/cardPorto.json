@@ -1,20 +1,38 @@
 [
     {
-        "title": "Proyek Website A",
+        "title": "Production Intern",
         "description": "Pengembangan web menggunakan Tailwind dan vanilla JS untuk e-commerce.",
-        "image": "images/porto/project-a.jpg",
+        "image": "img/foto_web (3).png",
         "link": "#proyek-a"
     },
     {
-        "title": "Aplikasi Mobile B",
+        "title": "Data Analytics Project",
         "description": "Desain UI/UX dan implementasi fungsionalitas utama menggunakan React Native.",
-        "image": "images/porto/project-b.jpg",
+        "image": "img/foto_web (1).png",
         "link": "#proyek-b"
     },
     {
-        "title": "Dashboard Admin C",
+        "title": "Supply Chain Project",
         "description": "Pembuatan dashboard interaktif dengan chart data menggunakan Alpine.js dan Chart.js.",
-        "image": "images/porto/project-c.jpg",
+        "image": "img/foto_web (2).png",
+        "link": "#proyek-c"
+    },
+    {
+        "title": "Information System Project",
+        "description": "Pembuatan dashboard interaktif dengan chart data menggunakan Alpine.js dan Chart.js.",
+        "image": "img/logo_daprel_transparent.png",
+        "link": "#proyek-c"
+    },
+    {
+        "title": "ISILOGIC 2024",
+        "description": "Pembuatan dashboard interaktif dengan chart data menggunakan Alpine.js dan Chart.js.",
+        "image": "img/logo_daprel_transparent.png",
+        "link": "#proyek-c"
+    },
+    {
+        "title": "Operational Research Project",
+        "description": "Pembuatan dashboard interaktif dengan chart data menggunakan Alpine.js dan Chart.js.",
+        "image": "img/logo_daprel_transparent.png",
         "link": "#proyek-c"
     }
 ]
