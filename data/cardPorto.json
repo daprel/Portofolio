@@ -1,13 +1,13 @@
 [
     {
         "title": "Production Intern",
-        "description": "Pengembangan web menggunakan Tailwind dan vanilla JS untuk e-commerce.",
+        "description": "Melakukan kegiatan magang dan analisis supply chain secara mendalam pada di perusahaan FMCG teh dengan fokus pada optimalisasi persediaan untuk SKU slow moving dengan model safety stock.",
         "image": "img/foto_web (3).png",
         "link": "#proyek-a"
     },
     {
         "title": "Data Analytics Project",
-        "description": "Desain UI/UX dan implementasi fungsionalitas utama menggunakan React Native.",
+        "description": "Mengerjakan studi kasus analisis data perusahaan mesin kopi untuk menentukan segmentasi pasar berdasarkan dataset customer profile.",
         "image": "img/foto_web (1).png",
         "link": "#proyek-b"
     },
@@ -19,19 +19,19 @@
     },
     {
         "title": "Information System Project",
-        "description": "Pembuatan dashboard interaktif dengan chart data menggunakan Alpine.js dan Chart.js.",
+        "description": "Pembuatan dashboard interaktif menggunakan python flask untuk membantu pencatatan kebutuhan material dan produk.",
         "image": "img/logo_daprel_transparent.png",
         "link": "#proyek-c"
     },
     {
         "title": "ISILOGIC 2024",
-        "description": "Pembuatan dashboard interaktif dengan chart data menggunakan Alpine.js dan Chart.js.",
+        "description": "Memenangkan Juara ke-2 dengan proyek tempat sampah dengan sistem IoT untuk monitoring kapasitas per-jenis sampah di setiap titik",
         "image": "img/logo_daprel_transparent.png",
         "link": "#proyek-c"
     },
     {
         "title": "Operational Research Project",
-        "description": "Pembuatan dashboard interaktif dengan chart data menggunakan Alpine.js dan Chart.js.",
+        "description": "Menyelesaikan studi kasus final coursework untuk melakukan optimasi distribusi travelling salesman problem",
         "image": "img/logo_daprel_transparent.png",
         "link": "#proyek-c"
     }
