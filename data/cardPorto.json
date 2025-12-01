@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Production Intern",
+        "description": "Melakukan kegiatan magang dan analisis supply chain secara mendalam pada di perusahaan FMCG teh dengan fokus pada optimalisasi persediaan untuk SKU slow moving dengan model safety stock.",
+        "image": "img/foto_web (3).png",
+        "link": "#proyek-a"
+    },
+    {
+        "title": "Data Analytics Project",
+        "description": "Mengerjakan studi kasus analisis data perusahaan mesin kopi untuk menentukan segmentasi pasar berdasarkan dataset customer profile.",
+        "image": "img/foto_web (1).png",
+        "link": "#proyek-b"
+    },
+    {
+        "title": "Supply Chain Project",
+        "description": "Pembuatan dashboard interaktif dengan chart data menggunakan Alpine.js dan Chart.js.",
+        "image": "img/foto_web (2).png",
+        "link": "#proyek-c"
+    },
+    {
+        "title": "Information System Project",
+        "description": "Pembuatan dashboard interaktif menggunakan python flask untuk membantu pencatatan kebutuhan material dan produk.",
+        "image": "img/logo_daprel_transparent.png",
+        "link": "#proyek-c"
+    },
+    {
+        "title": "ISILOGIC 2024",
+        "description": "Memenangkan Juara ke-2 dengan proyek tempat sampah dengan sistem IoT untuk monitoring kapasitas per-jenis sampah di setiap titik",
+        "image": "img/logo_daprel_transparent.png",
+        "link": "#proyek-c"
+    },
+    {
+        "title": "Operational Research Project",
+        "description": "Menyelesaikan studi kasus final coursework untuk melakukan optimasi distribusi travelling salesman problem",
+        "image": "img/logo_daprel_transparent.png",
+        "link": "#proyek-c"
+    }
+]
