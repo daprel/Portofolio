@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Proyek Website A",
+        "description": "Pengembangan web menggunakan Tailwind dan vanilla JS untuk e-commerce.",
+        "image": "images/porto/project-a.jpg",
+        "link": "#proyek-a"
+    },
+    {
+        "title": "Aplikasi Mobile B",
+        "description": "Desain UI/UX dan implementasi fungsionalitas utama menggunakan React Native.",
+        "image": "images/porto/project-b.jpg",
+        "link": "#proyek-b"
+    },
+    {
+        "title": "Dashboard Admin C",
+        "description": "Pembuatan dashboard interaktif dengan chart data menggunakan Alpine.js dan Chart.js.",
+        "image": "images/porto/project-c.jpg",
+        "link": "#proyek-c"
+    }
+]
